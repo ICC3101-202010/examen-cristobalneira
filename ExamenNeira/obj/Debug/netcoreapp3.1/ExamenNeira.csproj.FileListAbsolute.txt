@@ -1,0 +1,13 @@
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\bin\Debug\netcoreapp3.1\ExamenNeira.exe
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\bin\Debug\netcoreapp3.1\ExamenNeira.deps.json
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\bin\Debug\netcoreapp3.1\ExamenNeira.runtimeconfig.json
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\bin\Debug\netcoreapp3.1\ExamenNeira.runtimeconfig.dev.json
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\bin\Debug\netcoreapp3.1\ExamenNeira.dll
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\bin\Debug\netcoreapp3.1\ExamenNeira.pdb
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\obj\Debug\netcoreapp3.1\ExamenNeira.csprojAssemblyReference.cache
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\obj\Debug\netcoreapp3.1\ExamenNeira.AssemblyInfoInputs.cache
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\obj\Debug\netcoreapp3.1\ExamenNeira.AssemblyInfo.cs
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\obj\Debug\netcoreapp3.1\ExamenNeira.csproj.CoreCompileInputs.cache
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\obj\Debug\netcoreapp3.1\ExamenNeira.dll
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\obj\Debug\netcoreapp3.1\ExamenNeira.pdb
+C:\Users\Cristobal\Desktop\examen-cristobalneira\ExamenNeira\obj\Debug\netcoreapp3.1\ExamenNeira.genruntimeconfig.cache

@@ -7,20 +7,17 @@ namespace ExamenNeira
     public class Entrenador : Persona
     {
         public double tactics;
-        public double yell;
-
-        public Entrenador(string nam, int ag, string nat, int mon,double tact, double yel)
+        public Entrenador(string nam, int ag, string nat, int mon,double tact)
         {
             this.name = nam;
             this.age = ag;
             this.nation = nat;
             this.money = mon;
             this.tactics = tact;
-            this.yell = yel;
         }
-        public void changeplayer(Jugador J)
+        public void OnPlayerChanged(object source, EventArgs e)
         {
-            //change list orden by star
+            Console.WriteLine(name+": Changing player..");
         }
     }
 }
